@@ -18,7 +18,7 @@ public class Main {
     }
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
-        System.out.println("How long do you want the generated password to be? (Recommended: greater than 8)");
+        System.out.print("How long do you want the generated password to be? (Recommended: greater than 8) ");
         int passwordLength = input.nextInt();
         String password = GenerateRandomPassword(passwordLength);
         System.out.println("Generated Password: " + password);
