@@ -1,3 +1,4 @@
 # java-passgen
  A random password generator!
- ![](https://i.imgur.com/HLhkwYy.gif)
+ 
+![](https://i.imgur.com/HLhkwYy.gif)
